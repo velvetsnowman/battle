@@ -12,4 +12,3 @@ feature 'Game over' do
     end
   end
 end
-ß
